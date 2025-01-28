@@ -216,5 +216,5 @@ def eda(sentence, alpha_sr=0.1, alpha_ri=0.1, alpha_rs=0.1, p_rd=0.1, num_aug=9)
 
 	#append the original sentence
 	#augmented_sentences.append(sentence)
-
+# Original source: https://github.com/jasonwei20/eda_nlp 
 	return augmented_sentences
